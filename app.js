@@ -1,3 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Conflict icin degistirildi.
 // Pull reuest icin bir dosya eklendi
 
 // Branchdeki yenilikler
