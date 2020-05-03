@@ -1,1 +1,4 @@
-//github fork traning
+//github training
+
+//yeni repository
+//pull request icin hazir
