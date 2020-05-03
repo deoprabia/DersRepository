@@ -2,3 +2,5 @@
 
 // Branchdeki yenilikler
 // Pull request icin hazir
+
+// Istenilen kod eklendi
